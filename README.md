@@ -20,7 +20,7 @@ Add to your `pubspec.yaml`:
 ```yaml
 dependencies:
   google_mobile_ads: ^5.1.0
-  premium_ads_v2: ^1.0.0
+  premium_ads_v2: ^1.0.1
 ```
 
 Or via Git:
