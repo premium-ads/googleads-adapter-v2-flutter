@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'premium_ads_v2'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = 'PremiumAds Google AdMob Adapter V2 — Flutter plugin'
   s.description      = <<-DESC
 PremiumAds custom mediation adapter for Google AdMob V2 — Flutter plugin.

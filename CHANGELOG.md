@@ -1,3 +1,7 @@
+## 1.0.1
+
+* Bump Android adapter to `net.premiumads.sdk:admob-adapter-v2:1.0.9` for Google Mobile Ads SDK v25 compatibility (fixes `VerifyError` on `VersionInfo`).
+
 ## 1.0.0
 
 * Initial release.

@@ -1,6 +1,6 @@
 name: premium_ads_v2
 description: PremiumAds Google AdMob Adapter V2 — Flutter plugin for mediation through PremiumAds.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/premium-ads/googleads-adapter-v2-flutter
 repository: https://github.com/premium-ads/googleads-adapter-v2-flutter
 issue_tracker: https://github.com/premium-ads/googleads-adapter-v2-flutter/issues
